@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>favicon</title>
+	<defs>
+		<image width="72" height="72" id="img1" href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhLS0gVXBsb2FkZWQgdG86IFNWR1JlcG8sIHd3dy5zdmdyZXBvLmNvbSwgVHJhbnNmb3JtZWQgYnk6IFNWR1JlcG8gVG9vbHMgLS0+Cjxzdmcgd2lkdGg9IjgwMHB4IiBoZWlnaHQ9IjgwMHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIgMTVDMy44MzMzMyAxMi4zMzMzIDguOCA3IDE0IDdDMTQuOTIyNiA3IDE1Ljc1MzkgNy4xMDQ5MiAxNi41IDcuMjg2ODVNMiA5QzMuODMzMzMgMTEuNjY2NyA4LjggMTcgMTQgMTdDMTQuOTIyNiAxNyAxNS43NTM5IDE2Ljg5NTEgMTYuNSAxNi43MTMyTTE2LjUgMTYuNzEzMkMxOS45NTk1IDE1Ljg2OTcgMjIgMTIgMjIgMTJDMjIgMTIgMTkuOTU5NSA4LjEzMDMyIDE2LjUgNy4yODY4NU0xNi41IDE2LjcxMzJDMTUuNSAxNS4xNjY3IDE0LjEgMTEuMTE2MyAxNi41IDcuMjg2ODVNMTIgMTAuNUMxMS41IDExIDEwLjggMTIuMyAxMiAxMy41IiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHBhdGggZD0iTTE4IDExSDE4LjAwMSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="fish-line-svgrepo-com" href="#img1" transform="matrix(.694,0,0,.694,-1,1)"/>
+</svg>
